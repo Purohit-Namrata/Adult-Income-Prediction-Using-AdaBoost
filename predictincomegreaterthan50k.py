@@ -70,6 +70,7 @@ plt.show()
 print("\nConfusion Matrix")
 print(classification_report(y_test,y_pred))
 
+
 no_of_records=df.shape[0]
 greater_than_50k=df[df['income']==' >50K'].shape[0]
 less_than_equal_to_50k=df[df['income']==' <=50K'].shape[0]
