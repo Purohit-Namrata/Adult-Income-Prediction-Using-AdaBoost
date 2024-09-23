@@ -58,3 +58,4 @@ print("Total number of records: {}".format(no_of_records))
 print("Individuals making more than 50K: {}".format(greater_than_50k))
 print("Individuals making at most 50K: {}".format(less_than_equal_to_50k))
 print("Percentage of individuals making more than 50K: {}%".format(greater_percent))
+s
